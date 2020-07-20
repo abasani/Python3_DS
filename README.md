@@ -1,3 +1,3 @@
-Background:
-Efficient Python 3 programming 
-Data structures in Python3
+# Background
+- Efficient Python 3 programming 
+- Data structures in Python3
